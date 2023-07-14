@@ -1,4 +1,6 @@
 ## Video Classification 
+[Link to Colab Notebook](https://colab.research.google.com/github/PranayLendave/video_classification/blob/main/trained_movinets_notebook.ipynb)
+
 Video classification is an essential task in computer vision, and this project focuses on utilizing MoViNet models for this purpose. MoViNet models are known for their efficiency and lightweight nature, making them suitable for real-time and resource-constrained applications.
 
 The notebook provides a comprehensive guide on video classification using MoViNet models. It covers data preparation, model training, evaluation, and inference on new videos.
